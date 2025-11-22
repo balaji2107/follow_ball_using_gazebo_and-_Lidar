@@ -1,0 +1,5 @@
+  File "/home/arz-1017/task/task_ws/install/tortoisebot_gazebo/lib/python3.12/site-packages/tortoisebot_gazebo/laserdata.py", line 3
+    from sensor_msgs/LaserScan.msg import LaserScan
+                    ^
+SyntaxError: invalid syntax
+

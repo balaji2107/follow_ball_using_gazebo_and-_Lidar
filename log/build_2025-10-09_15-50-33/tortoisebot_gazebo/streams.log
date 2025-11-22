@@ -1,0 +1,29 @@
+[0.650s] Invoking command in '/home/arz-1017/task/task_ws/src/tortoisebot_gazebo': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/arz-1017/task/task_ws/build/tortoisebot_gazebo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/arz-1017/task/task_ws/install/tortoisebot_gazebo/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/tortoisebot_gazebo build --build-base /home/arz-1017/task/task_ws/build/tortoisebot_gazebo/build install --record /home/arz-1017/task/task_ws/build/tortoisebot_gazebo/install.log --single-version-externally-managed install_data
+[0.821s] running egg_info
+[0.834s] writing ../../build/tortoisebot_gazebo/tortoisebot_gazebo.egg-info/PKG-INFO
+[0.834s] writing dependency_links to ../../build/tortoisebot_gazebo/tortoisebot_gazebo.egg-info/dependency_links.txt
+[0.835s] writing entry points to ../../build/tortoisebot_gazebo/tortoisebot_gazebo.egg-info/entry_points.txt
+[0.835s] writing requirements to ../../build/tortoisebot_gazebo/tortoisebot_gazebo.egg-info/requires.txt
+[0.835s] writing top-level names to ../../build/tortoisebot_gazebo/tortoisebot_gazebo.egg-info/top_level.txt
+[0.861s] reading manifest file '../../build/tortoisebot_gazebo/tortoisebot_gazebo.egg-info/SOURCES.txt'
+[0.861s] writing manifest file '../../build/tortoisebot_gazebo/tortoisebot_gazebo.egg-info/SOURCES.txt'
+[0.861s] running build
+[0.861s] running build_py
+[0.862s] copying tortoisebot_gazebo/laserdata.py -> /home/arz-1017/task/task_ws/build/tortoisebot_gazebo/build/lib/tortoisebot_gazebo
+[0.862s] running install
+[0.866s] running install_lib
+[0.879s] copying /home/arz-1017/task/task_ws/build/tortoisebot_gazebo/build/lib/tortoisebot_gazebo/laserdata.py -> /home/arz-1017/task/task_ws/install/tortoisebot_gazebo/lib/python3.12/site-packages/tortoisebot_gazebo
+[0.879s] byte-compiling /home/arz-1017/task/task_ws/install/tortoisebot_gazebo/lib/python3.12/site-packages/tortoisebot_gazebo/laserdata.py to laserdata.cpython-312.pyc
+[0.879s]   File "/home/arz-1017/task/task_ws/install/tortoisebot_gazebo/lib/python3.12/site-packages/tortoisebot_gazebo/laserdata.py", line 2
+[0.879s]     import rclpy.Node from Node
+[0.879s]     ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[0.879s] SyntaxError: Did you mean to use 'from ... import ...' instead?
+[0.880s] 
+[0.880s] running install_data
+[0.880s] running install_egg_info
+[0.894s] removing '/home/arz-1017/task/task_ws/install/tortoisebot_gazebo/lib/python3.12/site-packages/tortoisebot_gazebo-0.0.0-py3.12.egg-info' (and everything under it)
+[0.894s] Copying ../../build/tortoisebot_gazebo/tortoisebot_gazebo.egg-info to /home/arz-1017/task/task_ws/install/tortoisebot_gazebo/lib/python3.12/site-packages/tortoisebot_gazebo-0.0.0-py3.12.egg-info
+[0.894s] running install_scripts
+[0.981s] Installing laser_data script to /home/arz-1017/task/task_ws/install/tortoisebot_gazebo/lib/tortoisebot_gazebo
+[0.981s] writing list of installed files to '/home/arz-1017/task/task_ws/build/tortoisebot_gazebo/install.log'
+[1.000s] Invoked command in '/home/arz-1017/task/task_ws/src/tortoisebot_gazebo' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/arz-1017/task/task_ws/build/tortoisebot_gazebo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/arz-1017/task/task_ws/install/tortoisebot_gazebo/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/tortoisebot_gazebo build --build-base /home/arz-1017/task/task_ws/build/tortoisebot_gazebo/build install --record /home/arz-1017/task/task_ws/build/tortoisebot_gazebo/install.log --single-version-externally-managed install_data

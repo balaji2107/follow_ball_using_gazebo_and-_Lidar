@@ -1,0 +1,15 @@
+[0.517s] Invoking command in '/home/arz-1017/task_ws/src/tortoisebot_gazebo': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/arz-1017/task_ws/build/tortoisebot_gazebo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/arz-1017/task_ws/install/tortoisebot_gazebo/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/tortoisebot_gazebo build --build-base /home/arz-1017/task_ws/build/tortoisebot_gazebo/build install --record /home/arz-1017/task_ws/build/tortoisebot_gazebo/install.log --single-version-externally-managed install_data
+[0.689s] running egg_info
+[0.702s] writing ../../build/tortoisebot_gazebo/tortoisebot_gazebo.egg-info/PKG-INFO
+[0.702s] writing dependency_links to ../../build/tortoisebot_gazebo/tortoisebot_gazebo.egg-info/dependency_links.txt
+[0.702s] writing requirements to ../../build/tortoisebot_gazebo/tortoisebot_gazebo.egg-info/requires.txt
+[0.702s] writing top-level names to ../../build/tortoisebot_gazebo/tortoisebot_gazebo.egg-info/top_level.txt
+[0.729s] reading manifest file '../../build/tortoisebot_gazebo/tortoisebot_gazebo.egg-info/SOURCES.txt'
+[0.729s] writing manifest file '../../build/tortoisebot_gazebo/tortoisebot_gazebo.egg-info/SOURCES.txt'
+[0.730s] running build
+[0.730s] running build_py
+[0.730s] running install
+[0.734s] running install_lib
+[0.747s] running install_data
+[0.747s] error: can't copy 'worlds': doesn't exist or not a regular file
+[0.758s] Invoked command in '/home/arz-1017/task_ws/src/tortoisebot_gazebo' returned '1': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/arz-1017/task_ws/build/tortoisebot_gazebo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/arz-1017/task_ws/install/tortoisebot_gazebo/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/tortoisebot_gazebo build --build-base /home/arz-1017/task_ws/build/tortoisebot_gazebo/build install --record /home/arz-1017/task_ws/build/tortoisebot_gazebo/install.log --single-version-externally-managed install_data

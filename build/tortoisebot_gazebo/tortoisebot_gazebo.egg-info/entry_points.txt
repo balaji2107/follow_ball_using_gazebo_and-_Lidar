@@ -1,0 +1,6 @@
+[console_scripts]
+filter_median = tortoisebot_gazebo.findmedian:main
+filter_moving_avg = tortoisebot_gazebo.movingaverage:main
+find_direction = tortoisebot_gazebo.finddirection:main
+laser_data = tortoisebot_gazebo.laserdata:main
+print_data = tortoisebot_gazebo.printdata:main

@@ -1,0 +1,27 @@
+running egg_info
+writing ../../build/tortoisebot_gazebo/tortoisebot_gazebo.egg-info/PKG-INFO
+writing dependency_links to ../../build/tortoisebot_gazebo/tortoisebot_gazebo.egg-info/dependency_links.txt
+writing entry points to ../../build/tortoisebot_gazebo/tortoisebot_gazebo.egg-info/entry_points.txt
+writing requirements to ../../build/tortoisebot_gazebo/tortoisebot_gazebo.egg-info/requires.txt
+writing top-level names to ../../build/tortoisebot_gazebo/tortoisebot_gazebo.egg-info/top_level.txt
+reading manifest file '../../build/tortoisebot_gazebo/tortoisebot_gazebo.egg-info/SOURCES.txt'
+writing manifest file '../../build/tortoisebot_gazebo/tortoisebot_gazebo.egg-info/SOURCES.txt'
+running build
+running build_py
+copying tortoisebot_gazebo/laserdata.py -> /home/arz-1017/task/task_ws/build/tortoisebot_gazebo/build/lib/tortoisebot_gazebo
+running install
+running install_lib
+copying /home/arz-1017/task/task_ws/build/tortoisebot_gazebo/build/lib/tortoisebot_gazebo/laserdata.py -> /home/arz-1017/task/task_ws/install/tortoisebot_gazebo/lib/python3.12/site-packages/tortoisebot_gazebo
+byte-compiling /home/arz-1017/task/task_ws/install/tortoisebot_gazebo/lib/python3.12/site-packages/tortoisebot_gazebo/laserdata.py to laserdata.cpython-312.pyc
+  File "/home/arz-1017/task/task_ws/install/tortoisebot_gazebo/lib/python3.12/site-packages/tortoisebot_gazebo/laserdata.py", line 2
+    import rclpy.Node from Node
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: Did you mean to use 'from ... import ...' instead?
+
+running install_data
+running install_egg_info
+removing '/home/arz-1017/task/task_ws/install/tortoisebot_gazebo/lib/python3.12/site-packages/tortoisebot_gazebo-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../../build/tortoisebot_gazebo/tortoisebot_gazebo.egg-info to /home/arz-1017/task/task_ws/install/tortoisebot_gazebo/lib/python3.12/site-packages/tortoisebot_gazebo-0.0.0-py3.12.egg-info
+running install_scripts
+Installing laser_data script to /home/arz-1017/task/task_ws/install/tortoisebot_gazebo/lib/tortoisebot_gazebo
+writing list of installed files to '/home/arz-1017/task/task_ws/build/tortoisebot_gazebo/install.log'

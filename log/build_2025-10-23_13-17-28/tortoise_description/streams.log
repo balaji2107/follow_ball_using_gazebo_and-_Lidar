@@ -1,0 +1,19 @@
+[1.520s] Invoking command in '/home/arz-1017/task/task_ws/src/tortoise_description': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/arz-1017/task/task_ws/build/tortoise_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/arz-1017/task/task_ws/install/tortoise_description/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/tortoise_description build --build-base /home/arz-1017/task/task_ws/build/tortoise_description/build install --record /home/arz-1017/task/task_ws/build/tortoise_description/install.log --single-version-externally-managed install_data
+[1.916s] running egg_info
+[1.943s] writing ../../build/tortoise_description/tortoise_description.egg-info/PKG-INFO
+[1.943s] writing dependency_links to ../../build/tortoise_description/tortoise_description.egg-info/dependency_links.txt
+[1.943s] writing requirements to ../../build/tortoise_description/tortoise_description.egg-info/requires.txt
+[1.943s] writing top-level names to ../../build/tortoise_description/tortoise_description.egg-info/top_level.txt
+[2.004s] reading manifest file '../../build/tortoise_description/tortoise_description.egg-info/SOURCES.txt'
+[2.004s] writing manifest file '../../build/tortoise_description/tortoise_description.egg-info/SOURCES.txt'
+[2.005s] running build
+[2.005s] running build_py
+[2.005s] running install
+[2.015s] running install_lib
+[2.047s] running install_data
+[2.047s] running install_egg_info
+[2.081s] removing '/home/arz-1017/task/task_ws/install/tortoise_description/lib/python3.12/site-packages/tortoise_description-0.0.0-py3.12.egg-info' (and everything under it)
+[2.082s] Copying ../../build/tortoise_description/tortoise_description.egg-info to /home/arz-1017/task/task_ws/install/tortoise_description/lib/python3.12/site-packages/tortoise_description-0.0.0-py3.12.egg-info
+[2.083s] running install_scripts
+[2.279s] writing list of installed files to '/home/arz-1017/task/task_ws/build/tortoise_description/install.log'
+[2.336s] Invoked command in '/home/arz-1017/task/task_ws/src/tortoise_description' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/arz-1017/task/task_ws/build/tortoise_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/arz-1017/task/task_ws/install/tortoise_description/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/tortoise_description build --build-base /home/arz-1017/task/task_ws/build/tortoise_description/build install --record /home/arz-1017/task/task_ws/build/tortoise_description/install.log --single-version-externally-managed install_data
